@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tricornerlab
-- 👀 I’m interested in coworkers
-- 💞️ I’m looking to collaborate on frontend
+- 👋 Hi, we are @tricornerlab
+- 👀 we are interested in coworkers
+- 💞️ I’m looking to collaborate on frontend nad graphic design, as well as ai and CMS implementations
 - 📫 How to reach me ...
 
 <!---
